@@ -1,5 +1,6 @@
 # ad-API
 Alter Dark API
+`GET https://alterdark.azurewebsites.net/api/` with params listed in maps below.
 
 # Maps
  - [Alter Dark](#alter-dark-map)
