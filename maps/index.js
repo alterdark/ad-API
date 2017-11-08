@@ -1,4 +1,4 @@
-module.exports = {
+exports.alterDark = {
   'bgpala0': 0x0010,
   'bgpala1': 0x0011,
   'bgpala2': 0x0012,

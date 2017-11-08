@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/hxlnt/alterdark-api#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "cors": "~2.8.4",
+    "express": "~4.16.2",
+    "pump": "~1.0.2",
+    "through2": "~2.0.3"
   }
 }
